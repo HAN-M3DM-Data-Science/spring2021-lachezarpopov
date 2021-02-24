@@ -1,0 +1,36 @@
+---
+title: "1st Business Case"
+author: "Lachezar Popov"
+date: "2/10/2021"
+output: html_document
+---
+
+# Opening Business Case
+
+## General notes
+
+
+1. Mathematical proof. Proofs exist beyond mathematics
+2. Proof = method for ascertaining the truth. 
+    a) One method is experimentation and observation 
+    b) Another is sampling and counterexamples 
+    c) Truth is established by judges/jury
+    d) Word of god / Religion
+    e) Boss / authority
+    f) Inner conviction
+    g) A **mathematical truth** is a verification of a proposition by a chain of logical deductions from a set of axioms.
+    
+_Def_: A proposition is a statement that is either true or false.
+
+_Predicate_: proposition whose truth depends on the value of variable(s)
+
+
+## Write down all associations you can discover between the study material (Provost Ch.1) and the video.
+
+1. Using data as a single source of truth. The mathematical proof is the most analogous to data driven decisions-making. 
+2. 
+
+
+## Apart from data driven what are other methods for decision making?
+
+
