@@ -1,6 +1,7 @@
 ---
 title: "Assigment - Data Driven Business"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "`r format(Sys.time(), '%d %B, %Y
+self_contained: false
 output:
   html_notebook:
     toc: yes
@@ -9,17 +10,29 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cshKKhKnSgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What features define a data driven business?
+
+- Creativity and data are inextricably linked
+- 
 
 Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+- They constantly ask questions to the data scientists for insights that they can use in their marketing campaigns. Questions such as "Did somebody listen to "Sorry" an unusual amount of times during Valentine's day". They would then display that story on a billboard with the permision of the user. They do this to connect with their audience on a personal level.
+
+Another example is that they would try to find out which artist and songs trended the most in a specific neighbourhood and cities and then display promotional materials of those artists/songs on billboards in that neighbourhood or city.
+
+<img src="images/goodbye_billboard.jpg">
+
+Their 2016 billboards campaign has been shared over 600 000 thousand times on social media. These are only some examples of how Spotify uses data to drive creativity in their marketing efforts.
+
+As Spotify is at the intersection of tech and culture with over 180 million users that are consuming listening to songs and creating playlists on their platform, the data of all of those users plays a key role throught the organization.
+
+<img src="
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
 
