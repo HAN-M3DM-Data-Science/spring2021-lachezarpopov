@@ -16,12 +16,28 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+- They wanted to understand how the marketplace in terms of supply and demand is working at airports and to airports (because of a high amount of cancellations by drivers near airports).
+
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+- first they look at anecdotes to understand what the problem could be (eg. customer tickets). So they did this and understood from the many complaints from customers that there is indeed a problem - airport trips are not reliable.
+
+- they have a lot of trip-level and driver-level information in their data warehouse. This allows them to understand which trips are happening to and from the airport and look at the specific characteristics of those trips. Some of the things they looked at was the average length of airport trips vs other trips of similar distance. Another item they looked at was the percentage of airport trip request by customers that get completed.
+
+- one the key metrics that they looked at was "(% of trips) completed by request". So they looked at different points of the day (from 4 AM till midnight) to understand at which hours the drivers were getting requests and what is the percentage that is getting completed.
+
+- cancellations that were going to the airport were higher than the overall cancellation rate for all trips. One of their hypotheses was that airports trips take a long time to complete which is not as profitable for drivers, thus why they were being canceled. Moreover the driver typically has to wait at the airport for flight arrivals to get a trip back. This waiting time doesn't make economical sense for the drivers as they are being paid per trip.
+
+- another metric they looked at was "driver idle time" at airports. They idle time was longer at the airport than other locations which also resulted in a higher cancellation rate fro airport trips. Moreover the idle time changes throughout the day - it is higher in the morning than it is later in the day. Moreover in the evening there was not enough organic supply (drivers at the airport) due to flight patterns (there aren't as much departures in the evening). So there was a imbalance - flight arrivals were happening in the evenings but no there were no departures so drivers were not going to the airports.
+
+
+Thus the two main issues they identified were the idle time and the cancellation rates at airports. So the way they communicated these findings to management was by visualizing the traffic of uber drivers through a line graph - there were more cars going to the airport in the morning vs cars that were leaving the airport and there were more cars leaving the airport in the evening vs cars that were going to the airport. In addition, they showed the average idle time by hour.
+
+With this information they had to figure out how to address imbalance of inflows and outflows during different times of the day.
+
+
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+No information on this aspect in the video.
